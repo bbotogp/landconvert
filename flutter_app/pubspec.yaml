@@ -1,0 +1,12 @@
+name: land_units_converter
+version: 0.1.0
+publish_to: none
+description: A Flutter demo for land units conversion.
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

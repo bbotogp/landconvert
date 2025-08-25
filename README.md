@@ -11,3 +11,11 @@ python src/verify_data.py
 ```
 python web/app.py
 ```
+
+## Flutter Demo
+يوجد مثال مبسط للمشروع باستخدام Flutter داخل مجلد `flutter_app`.
+لتشغيله بعد تثبيت Flutter:
+```
+cd flutter_app
+flutter run
+```
